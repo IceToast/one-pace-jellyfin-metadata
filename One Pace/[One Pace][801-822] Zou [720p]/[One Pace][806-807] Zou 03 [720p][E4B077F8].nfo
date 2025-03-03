@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy and co. ride out the rain-ruption and learn of its vital role in maintaining life on Zou. As they continue toward the fortress, they learn more about the mysterious minks, and are finally reunited with the others.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Zou 03</title>
+  <title>At Rightflank Fortress</title>
   <year>2016</year>
   <runtime>27</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][801-822] Zou [720p]/[One Pace][806-807] Zou 03 [720p][E4B077F8]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>807</episode>
+  <episode>3</episode>
   <aired>2016-09-30</aired>
   <fileinfo>
     <streamdetails>

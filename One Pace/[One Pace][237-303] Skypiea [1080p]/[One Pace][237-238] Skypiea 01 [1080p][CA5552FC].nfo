@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats, having used the Knock-Up Stream to fly into the sky, arrive on a white ocean above the clouds. While they marvel at the otherworldly sights, they are attacked by a powerful masked figure, and a mysterious flying knight comes to their aid.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 01</title>
+  <title>Heaven's Gate</title>
   <runtime>20</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][237-238] Skypiea 01 [1080p][CA5552FC]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>238</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <video>

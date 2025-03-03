@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <season>
-  <plot />
-  <outline />
+  <plot>The Straw Hats seek the fabled sky island Skypiea and head to Jaya for information on its whereabouts. Their convictions are tested by the pirates of Mock Town, but not everyone on the island is a hardline skeptic.</plot>
+  <outline>The Straw Hats seek the fabled sky island Skypiea and head to Jaya for information on its whereabouts. Their convictions are tested by the pirates of Mock Town, but not everyone on the island is a hardline skeptic.</outline>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:26</dateadded>
   <title>218-236 Jaya</title>

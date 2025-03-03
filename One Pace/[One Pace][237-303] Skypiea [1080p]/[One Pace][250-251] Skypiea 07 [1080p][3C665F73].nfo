@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Gan Fall is severely burned during his battle with Shura, and Chopper musters the courage for a leap of faith. Elsewhere, Luffy and co. finally discover a way to defeat the mantra-wielding Satori, and the Shandians prepare for an all-out attack on God!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 07</title>
+  <title>Overture</title>
   <runtime>21</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][250-251] Skypiea 07 [1080p][3C665F73]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>251</episode>
+  <episode>7</episode>
   <fileinfo>
     <streamdetails>
       <video>

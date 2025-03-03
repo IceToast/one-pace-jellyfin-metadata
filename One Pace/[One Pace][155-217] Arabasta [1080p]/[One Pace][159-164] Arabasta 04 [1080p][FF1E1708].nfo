@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Vivi and co. finally reach Yuba, the last known location of the Rebel Army, but there is nary a soul in sight. Meanwhile, at the behest of their hidden leader, Baroque Works' officer agents begin to gather at the Spiders Cafe.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 04</title>
+  <title>Yuba, the Town of Rebels</title>
   <runtime>25</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][159-164] Arabasta 04 [1080p][FF1E1708]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>164</episode>
+  <episode>4</episode>
   <fileinfo>
     <streamdetails>
       <video>

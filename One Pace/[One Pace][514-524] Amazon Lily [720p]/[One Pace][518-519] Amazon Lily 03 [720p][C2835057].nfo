@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy is sentenced to execution by arena combat with Boa Hancock’s serpentine sisters. Luffy soon discovers that the two women have a mysterious ability that allows them to slither through all his attacks unharmed.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Amazon Lily 03</title>
+  <title>The Arena</title>
   <year>2016</year>
   <runtime>23</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][514-524] Amazon Lily [720p]/[One Pace][518-519] Amazon Lily 03 [720p][C2835057]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>519</episode>
+  <episode>3</episode>
   <aired>2016-02-12</aired>
   <fileinfo>
     <streamdetails>

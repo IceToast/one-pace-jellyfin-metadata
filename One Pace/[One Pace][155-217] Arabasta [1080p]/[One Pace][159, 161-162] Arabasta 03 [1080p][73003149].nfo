@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats finally start their arduous trek across the deserts of Arabasta! Along the way, they encounter martial-arts-loving dugongs, avian con artists, a giant carnivorous reptile, and a camel with very particular tastes in his passengers.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 03</title>
+  <title>Adventure in the Kingdom of Sand</title>
   <runtime>26</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][159, 161-162] Arabasta 03 [1080p][73003149]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>162</episode>
+  <episode>3</episode>
   <fileinfo>
     <streamdetails>
       <video>

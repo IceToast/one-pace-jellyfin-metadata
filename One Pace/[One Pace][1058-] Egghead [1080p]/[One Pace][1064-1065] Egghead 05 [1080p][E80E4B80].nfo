@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Lilith takes the Sunny and its remaining crew to the laboratory in the clouds, where a new threat lurking within its corridors attacks unexpectedly. As the battle ensues, Vegapunk's satellites look on with excitement.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Egghead 05</title>
+  <title>The Six Vegapunks</title>
   <runtime>33</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][1058-] Egghead [1080p]/[One Pace][1064-1065] Egghead 05 [1080p][E80E4B80]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>1064</episode>
+  <episode>5</episode>
   <fileinfo>
     <streamdetails>
       <video>

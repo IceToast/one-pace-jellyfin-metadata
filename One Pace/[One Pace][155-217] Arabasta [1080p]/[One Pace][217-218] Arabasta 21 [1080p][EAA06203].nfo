@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats have evaded the Marines, but a new development crops up when a certain stowaway makes her presence on the Going Merry known… and she wants to be part of the crew!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 21</title>
+  <title>Stowaway</title>
   <runtime>17</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][217-218] Arabasta 21 [1080p][EAA06203]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>218</episode>
+  <episode>21</episode>
   <fileinfo>
     <streamdetails>
       <video>

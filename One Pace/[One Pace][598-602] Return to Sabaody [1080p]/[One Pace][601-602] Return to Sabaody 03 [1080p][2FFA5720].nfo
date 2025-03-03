@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>After two long years and one chaotic afternoon, the Straw Hats are finally ready to renew their voyage. However, before they can set off to Fishman Island, they must contend with a massive Marine force determined to stop them.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Return to Sabaody 03</title>
+  <title>Dive, Dive, Dive!</title>
   <runtime>34</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][598-602] Return to Sabaody [1080p]/[One Pace][601-602] Return to Sabaody 03 [1080p][2FFA5720]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>602</episode>
+  <episode>3</episode>
   <fileinfo>
     <streamdetails>
       <audio>

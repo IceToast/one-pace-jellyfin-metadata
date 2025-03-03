@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats happen across Zoro's former partners, Yosaku and Johnny, whose dietary dilemma reminds the pirates they still need a cook on their ship. Thus, they set sail for the sea restaurant Baratie, hoping to snag a chef.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Baratie 01</title>
+  <title>Enter: Sanji</title>
   <runtime>30</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][42-68] Baratie [1080p]/[One Pace][42-44] Baratie 01 [1080p][CC37D6C6]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>44</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <audio>

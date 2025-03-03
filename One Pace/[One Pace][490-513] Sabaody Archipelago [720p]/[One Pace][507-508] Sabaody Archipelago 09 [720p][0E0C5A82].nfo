@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy and his crew decide to lay low in town while Rayleigh coats the Sunny. Meanwhile, Admiral Kizaru from Marine HQ arrives on the archipelago in search of those responsible for threatening the Celestial Dragons.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Sabaody Archipelago 09</title>
+  <title>Kizaru Arrives</title>
   <year>2016</year>
   <runtime>22</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][490-513] Sabaody Archipelago [720p]/[One Pace][507-508] Sabaody Archipelago 09 [720p][0E0C5A82]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>508</episode>
+  <episode>9</episode>
   <aired>2016-01-23</aired>
   <fileinfo>
     <streamdetails>

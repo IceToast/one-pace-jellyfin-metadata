@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Fifty warships, 100,000 Marines, the Seven Warlords, and three admirals: Akainu, Aokiji, and Kizaru. The stage is set, and, as a battle with Whitebeard looms, Fleet Admiral Sengoku reveals a shocking truth about Ace.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Marineford 01</title>
+  <title>Marine Headquarters</title>
   <year>2020</year>
   <runtime>31</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][549-580] Marineford [720p]/[One Pace][549-550] Marineford 01 [720p][92956F40]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>550</episode>
+  <episode>1</episode>
   <aired>2020-10-06</aired>
   <fileinfo>
     <streamdetails>

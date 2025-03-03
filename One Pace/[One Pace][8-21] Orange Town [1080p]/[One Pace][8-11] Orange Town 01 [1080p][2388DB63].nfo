@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Nami, a street-smart girl who loves money and tangerines, makes Luffy's acquaintance. To save herself and steal a map to the Grand Line, she tricks Luffy into allowing her to turn him over to the infamous pirate Buggy the Clown.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>Orange Town 01</title>
+  <title>Enter: Nami</title>
   <runtime>28</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][8-21] Orange Town [1080p]/[One Pace][8-11] Orange Town 01 [1080p][2388DB63]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>11</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <video>

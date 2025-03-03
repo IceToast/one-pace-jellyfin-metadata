@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>A mysterious country, a rampaging slasher, an ancient samurai ritual of seppuku—and Zoro in the crosshairs! Stranded alone on the beach, Luffy tries to gather his bearings only to be confronted by some dangerous local fauna.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Wano 02</title>
+  <title>Seppuku</title>
   <year>2020</year>
   <runtime>33</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][909-924] Wano Act 1/[One Pace][909-911] Wano 02 [1080p][453DCC92]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>911</episode>
+  <episode>2</episode>
   <aired>2020-04-07</aired>
   <fileinfo>
     <streamdetails>

@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Filled with both excitement and trepidation, the crew finally sets sail for the New World. After bidding their fond farewells, the Straw Hats leave with a new log pose in hand. Overcoming trials and tragedies, Luffy's dream is on course once again!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Fishman Island 24</title>
+  <title>The Hero's Hat</title>
   <year>2013</year>
   <runtime>33</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/[One Pace][652-653] Fishman Island 24 [720p][99A61805]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>653</episode>
+  <episode>24</episode>
   <aired>2013-05-11</aired>
   <fileinfo>
     <streamdetails>

@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>After a one-sided brawl with Bellamy, the Straw Hats meet a black-haired pirate outside the bar who reaffirms their dreams and insists the sky island is real. As they depart for the other side of Jaya, another salvager of the Saruyama Alliance appears.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Jaya 03</title>
+  <title>People's Dreams</title>
   <runtime>20</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][218-236] Jaya [1080p]/[One Pace][225-226] Jaya 03 [1080p][B4950266]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>226</episode>
+  <episode>3</episode>
   <fileinfo>
     <streamdetails>
       <video>

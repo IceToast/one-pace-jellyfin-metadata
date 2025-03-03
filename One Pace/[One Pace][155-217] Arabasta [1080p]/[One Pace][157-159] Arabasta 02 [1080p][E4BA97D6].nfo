@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Merry makes landfall at Arabasta’s port town, and while the rest of the Straw Hats wisely don disguises, Luffy runs afoul of an old foe. However, a chance reunion with a flame-wielding member of Luffy’s family might just be the saving grace he needs!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 02</title>
+  <title>Landfall in Arabasta</title>
   <runtime>28</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][157-159] Arabasta 02 [1080p][E4BA97D6]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>159</episode>
+  <episode>2</episode>
   <fileinfo>
     <streamdetails>
       <video>

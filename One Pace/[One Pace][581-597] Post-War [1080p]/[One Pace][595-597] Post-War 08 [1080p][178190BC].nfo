@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hat Pirates have interpreted their captain's message to meet up again in two years. During this time, they will prepare themselves for the New World! In the Calm Belt, Luffy arrives in Luscaina to begin training under Rayleigh.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Post-War 08</title>
+  <title>3D2Y</title>
   <year>2021</year>
   <runtime>60</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][581-597] Post-War [1080p]/[One Pace][595-597] Post-War 08 [1080p][178190BC]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>597</episode>
+  <episode>8</episode>
   <aired>2021-01-18</aired>
   <fileinfo>
     <streamdetails>

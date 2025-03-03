@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>As the Straw Hat Pirates travel from Reverse Mountain to Whisky Peak, Nami adjusts to having to watch the log pose constantly. When they arrive at their destination, the townspeople greet them warmly, despite the sight of their Jolly Roger.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Whiskey Peak 01</title>
+  <title>The Town of Celebration</title>
   <year>2017</year>
   <runtime>31</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][106-114] Whiskey Peak [480p]/[One Pace][106-109] Whiskey Peak 01 [480p][26D6F22A]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>109</episode>
+  <episode>1</episode>
   <aired>2017-08-19</aired>
   <fileinfo>
     <streamdetails>

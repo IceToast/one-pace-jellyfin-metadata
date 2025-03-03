@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats arrive at their destination and discover that the island is home to enormous creatures... and people. Meanwhile, the Baroque Works agents Mr. 3 and his partner Miss Golden Week receive new orders.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Little Garden 01</title>
+  <title>Adventure on Little Garden</title>
   <year>2020</year>
   <runtime>29</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][115-129] Little Garden [480p]/[One Pace][115-117] Little Garden 01 [480p][C622761D]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>117</episode>
+  <episode>1</episode>
   <aired>2020-11-20</aired>
   <fileinfo>
     <streamdetails>

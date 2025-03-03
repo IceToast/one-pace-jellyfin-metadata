@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The lost ruins of Shandora are revealed in a spectacle of lightning, and the remaining survivors of Enel's twisted game begin their showdown with the self-styled deity. As the group faces him, "God" reveals his ultimate goal...</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 15</title>
+  <title>Quintet</title>
   <runtime>36</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][273-276] Skypiea 15 [1080p][9863ADF4]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>276</episode>
+  <episode>15</episode>
   <fileinfo>
     <streamdetails>
       <video>

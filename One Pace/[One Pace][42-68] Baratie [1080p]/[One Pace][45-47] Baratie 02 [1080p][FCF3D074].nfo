@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy is on hiatus from pirating to work as a cabin boy to pay off the damage done to the Baratie. While he tries to convince Sanji to join his crew, the pirate Gin brings the infamous Don Krieg and his starving forces to the sea restaurant.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Baratie 02</title>
+  <title>Pirate Commodore Don Krieg</title>
   <runtime>31</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][42-68] Baratie [1080p]/[One Pace][45-47] Baratie 02 [1080p][FCF3D074]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>47</episode>
+  <episode>2</episode>
   <fileinfo>
     <streamdetails>
       <audio>

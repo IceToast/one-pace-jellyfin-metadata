@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy leads a daring—but foolish—raid on Crocodile’s casino. His poor planning lands him behind bars with Captain Smoker. But more importantly, these actions leave Vivi alone and unprotected.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 07</title>
+  <title>It Begins</title>
   <runtime>18</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][169-170] Arabasta 07 [1080p][CFA091A0]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>170</episode>
+  <episode>7</episode>
   <fileinfo>
     <streamdetails>
       <video>

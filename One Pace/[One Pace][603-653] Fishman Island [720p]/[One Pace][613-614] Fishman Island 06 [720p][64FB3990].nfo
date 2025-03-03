@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Plagued by the unwanted advances of a lunatic fishman with a dangerous power, Mermaid Princess Shirahoshi has been hidden away in a lonely tower for years. Meanwhile in the palace, things take a sour turn for the Straw Hats.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Fishman Island 06</title>
+  <title>The Mermaid Princess in Hard-Shell Tower! Shirahoshi of the Neptune Family!</title>
   <year>2014</year>
   <runtime>30</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/[One Pace][613-614] Fishman Island 06 [720p][64FB3990]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>614</episode>
+  <episode>6</episode>
   <aired>2014-02-26</aired>
   <fileinfo>
     <streamdetails>

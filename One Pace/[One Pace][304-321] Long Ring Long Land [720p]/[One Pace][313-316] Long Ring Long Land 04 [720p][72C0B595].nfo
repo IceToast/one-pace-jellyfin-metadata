@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The two captains face off in a final game: a battle of brawn aboard Foxy's ship in round #3, Combat! Luffy, sporting a killer afro and an attitude to match, steps into the boxing ring to put the hurt on Foxy.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Long Ring Long Land 04</title>
+  <title>Combat</title>
   <year>2016</year>
   <runtime>36</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][304-321] Long Ring Long Land [720p]/[One Pace][313-316] Long Ring Long Land 04 [720p][72C0B595]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>316</episode>
+  <episode>4</episode>
   <aired>2016-11-02</aired>
   <fileinfo>
     <streamdetails>

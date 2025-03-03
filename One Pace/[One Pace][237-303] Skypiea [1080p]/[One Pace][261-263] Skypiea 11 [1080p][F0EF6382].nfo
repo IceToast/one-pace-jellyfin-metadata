@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy's fight with Wyper lands him in a dark cavern filled with ruins, Enel leaves a deadly pair of new enemies to deal with Nami and Gan Fall, and Chopper comes face to face with Sky Punk Gedatsu.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 11</title>
+  <title>Pirate Chopper vs. Priest Gedatsu</title>
   <runtime>32</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][261-263] Skypiea 11 [1080p][F0EF6382]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>263</episode>
+  <episode>11</episode>
   <fileinfo>
     <streamdetails>
       <video>

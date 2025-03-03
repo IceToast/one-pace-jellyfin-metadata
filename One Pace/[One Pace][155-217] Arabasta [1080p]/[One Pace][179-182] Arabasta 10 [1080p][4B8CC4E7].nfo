@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Vivi’s party speeds along toward Alubarna, as does the Rebel Army. While the Supersonic Duck Squad helps Zoro and the others play decoy, Vivi sets out on her own to try and stop Koza and his rebels.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arabasta 10</title>
+  <title>Showdown at Alubarna</title>
   <runtime>36</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/[One Pace][179-182] Arabasta 10 [1080p][4B8CC4E7]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>182</episode>
+  <episode>10</episode>
   <fileinfo>
     <streamdetails>
       <audio>

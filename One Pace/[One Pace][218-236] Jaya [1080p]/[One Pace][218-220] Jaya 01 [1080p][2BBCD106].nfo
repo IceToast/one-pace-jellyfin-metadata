@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>When a galleon-size ship falls from the sky and Nami's log pose begins to point straight up, the Straw Hats sense a new adventure on the horizon. Right after a mysterious map is pulled from the wreckage, a group of salvagers come to claim the fallen ship.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Jaya 01</title>
+  <title>Why the Log Pose Is Spherical</title>
   <runtime>21</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][218-236] Jaya [1080p]/[One Pace][218-220] Jaya 01 [1080p][2BBCD106]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>220</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <video>

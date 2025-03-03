@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy gives Franky the opening he needs to head for Robin. The cyborg runs into trouble at the start of the bridge, but all is not lost as a lone sniper appears atop the Tower of Justice. Despite these minor victories, the buster call commences.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Enies Lobby 20</title>
+  <title>Buster Call</title>
   <year>2020</year>
   <runtime>26</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][375-430] Enies Lobby  [1080p]/[One Pace][419-420] Enies Lobby 20 [1080p][5AC534CA]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>420</episode>
+  <episode>20</episode>
   <aired>2020-05-29</aired>
   <fileinfo>
     <streamdetails>

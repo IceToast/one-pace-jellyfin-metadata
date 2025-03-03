@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The players have assembled at last! Whitebeard unleashes a tsunami that is set to swallow every marine and turn Marine HQ upside down. The fight has just begun, as Marine admirals and pirate commanders alike showcase their incredible abilities.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Marineford 03</title>
+  <title>Conflict at the Summit</title>
   <year>2020</year>
   <runtime>16</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][549-580] Marineford [720p]/[One Pace][553-554] Marineford 03 [720p][D16C3A7A]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>554</episode>
+  <episode>3</episode>
   <aired>2020-10-06</aired>
   <fileinfo>
     <streamdetails>

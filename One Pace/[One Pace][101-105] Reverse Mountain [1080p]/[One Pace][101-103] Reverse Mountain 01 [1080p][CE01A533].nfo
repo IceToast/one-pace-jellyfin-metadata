@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Following a near disaster in the Calm Belt, the Straw Hats take a wild ride up and down a mountain… and are promptly swallowed by a giant whale!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Reverse Mountain 01</title>
+  <title>Reverse Mountain</title>
   <runtime>20</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][101-105] Reverse Mountain [1080p]/[One Pace][101-103] Reverse Mountain 01 [1080p][CE01A533]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>103</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <video>

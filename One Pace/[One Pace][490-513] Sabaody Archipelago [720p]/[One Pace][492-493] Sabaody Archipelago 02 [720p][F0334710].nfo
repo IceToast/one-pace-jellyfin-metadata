@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats arrive at Duval's (eerily quiet) base and manage to locate Camie's captured friend. Realizing the captive’s identity, the Straw Hats reluctantly agree to rescue him, and only in exchange for directions to Fishman Island.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Sabaody Archipelago 02</title>
+  <title>Iron Mask Duval</title>
   <year>2016</year>
   <runtime>24</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][490-513] Sabaody Archipelago [720p]/[One Pace][492-493] Sabaody Archipelago 02 [720p][F0334710]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>493</episode>
+  <episode>2</episode>
   <aired>2016-01-23</aired>
   <fileinfo>
     <streamdetails>

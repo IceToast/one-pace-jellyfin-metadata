@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy’s reputation grows as all eyes look toward the Straw Hats’ next move. Meanwhile, the royals of the world make their way to the Reverie, but their absence welcomes a raid by a vicious band of pirates on the Kingdom of Lulusia.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Reverie 01</title>
+  <title>The Fifth Emperor</title>
   <year>2021</year>
   <runtime>34</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][903-908] Reverie [1080p]/[One Pace][903-904] Reverie 01 [1080p][A4325AC2]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>904</episode>
+  <episode>1</episode>
   <aired>2021-01-02</aired>
   <fileinfo>
     <streamdetails>

@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats rave over new bounties, and Crocodile and Mihawk pay Buggy a visit. Elsewhere, Dragon and his revolutionaries are shocked when they read about Sabo in the news, and an old comrade returns, a shell of his former self.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Egghead 01</title>
+  <title>New Emperors</title>
   <runtime>25</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][1058-] Egghead [1080p]/[One Pace][1058-1059] Egghead 01 [1080p][1B5D9178]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>1059</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <video>

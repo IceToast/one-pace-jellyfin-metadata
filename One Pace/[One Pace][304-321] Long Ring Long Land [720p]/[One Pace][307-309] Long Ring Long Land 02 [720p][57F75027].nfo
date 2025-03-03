@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy accepts Foxy’s challenge to a Davy Back Fight, a pirate contest in which the stakes are the crews themselves! Round #1 is the Donut Race, where each team races around the island in tiny boats made from just the scraps of three barrels.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Long Ring Long Land 02</title>
+  <title>Donut Race!!</title>
   <year>2016</year>
   <runtime>25</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][304-321] Long Ring Long Land [720p]/[One Pace][307-309] Long Ring Long Land 02 [720p][57F75027]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>309</episode>
+  <episode>2</episode>
   <aired>2016-10-29</aired>
   <fileinfo>
     <streamdetails>

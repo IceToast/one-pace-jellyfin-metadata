@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The pirates receive an unexpected invitation to Ryugu Palace from Neptune himself, king of Fishman Island. Tempted by the smell of food, Luffy wanders the palace and soon finds an enormous tower with a sturdy yet battle-worn door.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Fishman Island 05</title>
+  <title>The King of Fishman Island Invited to Ryugu Palace!</title>
   <year>2014</year>
   <runtime>27</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/[One Pace][611-612] Fishman Island 05 [720p][DA5B5D04]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>612</episode>
+  <episode>5</episode>
   <aired>2014-02-21</aired>
   <fileinfo>
     <streamdetails>

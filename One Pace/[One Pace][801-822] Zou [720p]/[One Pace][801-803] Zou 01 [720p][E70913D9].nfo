@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The mysterious island of Zou approaches in the distance, obscured by fog. When the haze clears, what greets the Straw Hats is beyond anyone’s expectations! Luffy and co. find the Sunny nearby, but the rest of the crew has already disembarked.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Zou 01</title>
+  <title>Zou</title>
   <year>2017</year>
   <runtime>38</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][801-822] Zou [720p]/[One Pace][801-803] Zou 01 [720p][E70913D9]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>803</episode>
+  <episode>1</episode>
   <aired>2017-10-24</aired>
   <fileinfo>
     <streamdetails>

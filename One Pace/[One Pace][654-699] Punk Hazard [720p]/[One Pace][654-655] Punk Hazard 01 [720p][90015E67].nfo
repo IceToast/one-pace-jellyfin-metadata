@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Fresh off the adventure at Fishman Island, the Sunny is caught in a massive whirlpool and dragged off course. A desperate cry for help leads the Straw Hats to Punk Hazard, an island engulfed in flames and inhabited by a mythic beast.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Punk Hazard 01</title>
+  <title>Punk Hazard</title>
   <year>2013</year>
   <runtime>28</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][654-699] Punk Hazard [720p]/[One Pace][654-655] Punk Hazard 01 [720p][90015E67]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>655</episode>
+  <episode>1</episode>
   <aired>2013-05-16</aired>
   <fileinfo>
     <streamdetails>

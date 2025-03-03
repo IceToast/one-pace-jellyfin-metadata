@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Chopper began life as an ordinary reindeer but was shunned by his own kind because of his unusual blue nose. Even after eating the Human-Human Devil Fruit, the islanders wanted nothing to do with him. That is, until Chopper met a certain quack doctor.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Drum Island 05</title>
+  <title>Quack Doctor</title>
   <runtime>39</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][130-154] Drum Island [1080p]/[One Pace][141-145] Drum Island 05 [1080p][E7044DBE]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>145</episode>
+  <episode>5</episode>
   <fileinfo>
     <streamdetails>
       <video>

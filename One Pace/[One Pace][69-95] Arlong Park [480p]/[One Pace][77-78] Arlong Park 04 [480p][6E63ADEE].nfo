@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Nojiko goes into detail about Nami's childhood and their adoptive mother Bell-mère, a former Marine. Despite being poor and unrelated by blood, they had a happy life on their tangerine orchard.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arlong Park 04</title>
+  <title>Bell-mère</title>
   <year>2020</year>
   <runtime>27</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][69-95] Arlong Park [480p]/[One Pace][77-78] Arlong Park 04 [480p][6E63ADEE]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>78</episode>
+  <episode>4</episode>
   <aired>2020-09-13</aired>
   <fileinfo>
     <streamdetails>

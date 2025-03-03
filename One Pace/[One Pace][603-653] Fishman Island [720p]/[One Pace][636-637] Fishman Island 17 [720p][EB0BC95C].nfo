@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Franky’s mechanical masterpieces have transformations in store that can only be described as "super!" However, onlookers curb their enthusiasm when a foreboding shadow is cast upon the plaza by a giant ship hurtling toward the island!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Fishman Island 17</title>
+  <title>The General from the Future Land and the Crisis of Fishman Island's Destruction</title>
   <year>2013</year>
   <runtime>28</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/[One Pace][636-637] Fishman Island 17 [720p][EB0BC95C]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>637</episode>
+  <episode>17</episode>
   <aired>2013-04-26</aired>
   <fileinfo>
     <streamdetails>

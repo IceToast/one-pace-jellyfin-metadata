@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats split up to find the correct key before Robin’s fate is sealed. Zoro finds and engages Kaku in battle, and Sogeking attempts to steal a key from the sleeping Jabra.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Enies Lobby 12</title>
+  <title>Pirates vs. CP9</title>
   <year>2020</year>
   <runtime>21</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][375-430] Enies Lobby  [1080p]/[One Pace][401-402] Enies Lobby 12 [720p][DA166192]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>402</episode>
+  <episode>12</episode>
   <aired>2020-03-11</aired>
   <fileinfo>
     <streamdetails>

@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy, Sanji, and Usopp are locked in a life-or-death struggle against the Priest Satori. It's all they can do to withstand the random attributes of Satori's strange spheres and to overcome the power of mantra, which can seemingly predict their movements.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 06</title>
+  <title>The Village Hidden in the Clouds</title>
   <runtime>34</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][247-249] Skypiea 06 [1080p][BF59EB14]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>249</episode>
+  <episode>6</episode>
   <fileinfo>
     <streamdetails>
       <video>

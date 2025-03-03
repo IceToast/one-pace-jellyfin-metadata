@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The pirates are fed up and ready to leave Skypiea, but Nami, Zoro, Robin, and Chopper are whisked away aboard the Merry. The remaining Straw Hat Pirates must face Enel’s challenge, so Conis shows them the way to Upper Yard.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 04</title>
+  <title>Ordeal</title>
   <runtime>29</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][243-244] Skypiea 04 [1080p][C6120876]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>244</episode>
+  <episode>4</episode>
   <fileinfo>
     <streamdetails>
       <video>

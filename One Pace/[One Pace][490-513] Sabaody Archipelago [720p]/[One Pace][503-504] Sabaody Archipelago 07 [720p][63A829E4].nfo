@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>As chaos erupts inside the auction house, a mysterious man with an equally mysterious power emerges from backstage. But now, due to Luffy’s insolent actions, a Marine admiral is on his way to Sabaody.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Sabaody Archipelago 07</title>
+  <title>An Island in Chaos</title>
   <year>2016</year>
   <runtime>24</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][490-513] Sabaody Archipelago [720p]/[One Pace][503-504] Sabaody Archipelago 07 [720p][63A829E4]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>504</episode>
+  <episode>7</episode>
   <aired>2016-01-23</aired>
   <fileinfo>
     <streamdetails>

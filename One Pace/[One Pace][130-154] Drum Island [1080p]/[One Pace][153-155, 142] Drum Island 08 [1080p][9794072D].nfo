@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Drum Island 08</title>
+  <title>Hiriluk's Cherry Blossoms</title>
   <runtime>30</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][130-154] Drum Island [1080p]/[One Pace][153-155, 142] Drum Island 08 [1080p][9794072D]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>155</episode>
+  <episode>8</episode>
   <fileinfo>
     <streamdetails>
       <video>

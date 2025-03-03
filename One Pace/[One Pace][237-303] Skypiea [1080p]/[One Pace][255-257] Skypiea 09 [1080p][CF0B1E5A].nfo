@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The crew splits up into Nami's escape team and Luffy's exploration team. Unfortunately, a giant snake attacks and separates Luffy's team. To top it all off, the Priests have set up their ordeals across the whole island.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Skypiea 09</title>
+  <title>Dial Battle</title>
   <runtime>35</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][237-303] Skypiea [1080p]/[One Pace][255-257] Skypiea 09 [1080p][CF0B1E5A]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>257</episode>
+  <episode>9</episode>
   <fileinfo>
     <streamdetails>
       <video>

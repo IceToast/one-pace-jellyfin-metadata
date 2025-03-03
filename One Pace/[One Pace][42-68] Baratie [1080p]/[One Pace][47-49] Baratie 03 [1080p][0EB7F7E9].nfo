@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>It's revealed that Chef Zeff was once a great pirate known as "Red Leg" Zeff, and his fighting spirit is as strong as ever. Meanwhile, Gin explains how his men met disaster in the Grand Line when they ran afoul of a devastatingly strong opponent.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Baratie 03</title>
+  <title>Storm</title>
   <runtime>19</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][42-68] Baratie [1080p]/[One Pace][47-49] Baratie 03 [1080p][0EB7F7E9]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>49</episode>
+  <episode>3</episode>
   <fileinfo>
     <streamdetails>
       <audio>

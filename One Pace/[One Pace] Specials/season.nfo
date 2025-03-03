@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <season>
-  <plot />
-  <outline />
+  <plot>Occasionally, the One Pace team likes to have some extra fun, so we made animated specials. See alternative storylines with twists you might not have expected.</plot>
+  <outline>Occasionally, the One Pace team likes to have some extra fun, so we made animated specials. See alternative storylines with twists you might not have expected.</outline>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:26</dateadded>
   <title>Specials</title>

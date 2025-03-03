@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats meet Montblanc Cricket, whose descendant was none other than Montblanc Noland, an infamous "liar" who told of a city of gold on Jaya. Cast out for looking for artifacts from the fabled city, he may just know a way to get to Skypiea.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Jaya 04</title>
+  <title>Noland the Liar</title>
   <runtime>20</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][218-236] Jaya [1080p]/[One Pace][227-228] Jaya 04 [1080p][86DC8F38]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>228</episode>
+  <episode>4</episode>
   <fileinfo>
     <streamdetails>
       <video>

@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Two years after the Summit War, the Straw Hat crew finally returns to Sabaody. However, the archipelago has changed, and with dangerous pirates lurking around in droves, their departure to the New World may not go as smoothly as hoped.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Return to Sabaody 01</title>
+  <title>Two Years Later</title>
   <runtime>34</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][598-602] Return to Sabaody [1080p]/[One Pace][598-599] Return to Sabaody 01 [1080p][5FBDCD0F]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>599</episode>
+  <episode>1</episode>
   <fileinfo>
     <streamdetails>
       <audio>

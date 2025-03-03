@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Jinbe reunites with Luffy in the undersea forest and reveals a shocking connection to an old foe. The former warlord begins a tale of when two famous figures fought to undo the animosity that existed between humans and fishmen.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Fishman Island 09</title>
+  <title>At the Sea Forest! Arlong and Hody</title>
   <runtime>35</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/[One Pace][619-620] Fishman Island 09 [720p][FCF7F7E4]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>620</episode>
+  <episode>9</episode>
   <fileinfo>
     <streamdetails>
       <audio>

@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Arlong's reign of terror is over, so the island throws a party to celebrate their freedom and to honor their pirate saviors. During the festivities, Nami makes her decision to officially join the Straw Hat Pirates.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Arlong Park 10</title>
+  <title>Spin, Pinwheel, Spin</title>
   <year>2020</year>
   <runtime>21</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][69-95] Arlong Park [480p]/[One Pace][94-95] Arlong Park 10 [480p][5AF7A9B1]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>95</episode>
+  <episode>10</episode>
   <aired>2020-09-13</aired>
   <fileinfo>
     <streamdetails>

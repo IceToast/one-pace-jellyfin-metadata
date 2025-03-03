@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>Post-Enies Lobby 03</title>
+  <title>Forgive Yourself! Franky Departs!</title>
   <year>2013</year>
   <runtime>30</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][431-441] Post-Enies Lobby [720p]/[One Pace][436-437] Post-Enies Lobby 03 [720p][2C843A0F]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>437</episode>
+  <episode>3</episode>
   <aired>2013-07-12</aired>
   <fileinfo>
     <streamdetails>

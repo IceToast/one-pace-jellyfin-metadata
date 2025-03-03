@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy, in disguise, crosses paths with the fake Luffy, and the imposter finds himself on the receiving end of a mysterious power. Meanwhile, Sentomaru and the Marines have yet again amassed a team of Pacifistas.</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:27</dateadded>
-  <title>Return to Sabaody 02</title>
+  <title>Island of New Beginnings</title>
   <runtime>31</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][598-602] Return to Sabaody [1080p]/[One Pace][599-600] Return to Sabaody 02 [1080p][9677C63E]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>600</episode>
+  <episode>2</episode>
   <fileinfo>
     <streamdetails>
       <audio>

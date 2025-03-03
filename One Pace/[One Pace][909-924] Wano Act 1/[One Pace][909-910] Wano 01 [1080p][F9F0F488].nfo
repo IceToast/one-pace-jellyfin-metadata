@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <episodedetails>
-  <plot />
+  <plot>Luffy and the others see familiar faces in a newspaper article about the Reverie right as they approach Wano. However, this dangerous and foreboding land is as inaccessible as it is mysterious, with the sea itself acting as a barrier!</plot>
   <lockdata>false</lockdata>
   <dateadded>2024-08-23 22:56:28</dateadded>
-  <title>Wano 01</title>
+  <title>Onward to Wano</title>
   <year>2020</year>
   <runtime>24</runtime>
   <art>
     <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][909-924] Wano Act 1/[One Pace][909-910] Wano 01 [1080p][F9F0F488]-thumb.jpg</poster>
   </art>
   <showtitle>One Pace</showtitle>
-  <episode>910</episode>
+  <episode>1</episode>
   <aired>2020-04-06</aired>
   <fileinfo>
     <streamdetails>
