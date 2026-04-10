@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Luffy's alliance with Law brings him next to Dressrosa to take down Doflamingo's booming business. But the crazed warlord and self-proclaimed ruler of Dressrosa has control over everyone and everything.</plot>
-  <outline>Luffy's alliance with Law brings him next to Dressrosa to take down Doflamingo's booming business. But the crazed warlord and self-proclaimed ruler of Dressrosa has control over everyone and everything.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>700-800 Dressrosa</title>
-  <year>2014</year>
+  <title>Dressrosa</title>
   <sorttitle>28</sorttitle>
-  <premiered>2014-02-09</premiered>
-  <releasedate>2014-02-09</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][700-800] Dressrosa [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>31</seasonnumber>
+  <displayseason>31</displayseason>
+  <plot>Luffy's alliance with Law brings him next to Dressrosa to take down Doflamingo's booming business. But the crazed warlord and self-proclaimed ruler of Dressrosa has control over everyone and everything.</plot>
+  <lockdata>false</lockdata>
 </season>

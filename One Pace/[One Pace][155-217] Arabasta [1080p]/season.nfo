@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Arabasta teeters on the edge of civil war, and it's up to Princess Vivi and the Straw Hats to stem the rebellion, uncover the plot of Baroque Works, and beat the Warlord Crocodile.</plot>
-  <outline>Arabasta teeters on the edge of civil war, and it's up to Princess Vivi and the Straw Hats to stem the rebellion, uncover the plot of Baroque Works, and beat the Warlord Crocodile.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>155-217 Arabasta</title>
-  <year>2021</year>
+  <title>Arabasta</title>
   <sorttitle>12</sorttitle>
-  <premiered>2021-05-10</premiered>
-  <releasedate>2021-05-10</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][155-217] Arabasta [1080p]/folder.png</poster>
-  </art>
+  <seasonnumber>14</seasonnumber>
+  <displayseason>14</displayseason>
+  <plot>Arabasta teeters on the edge of civil war, and it's up to Princess Vivi and the Straw Hats to stem the rebellion, uncover the plot of Baroque Works, and beat the Warlord Crocodile.</plot>
+  <lockdata>false</lockdata>
 </season>

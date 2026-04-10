@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>On Long Ring Long Land, the Straw Hats are challenged to a Davy Back Fight. As they dive headfirst into a series of games with serious outcomes, the best the Navy has to offer has meanwhile begun to pay closer attention to certain Straw Hat crewmembers.</plot>
-  <outline>On Long Ring Long Land, the Straw Hats are challenged to a Davy Back Fight. As they dive headfirst into a series of games with serious outcomes, the best the Navy has to offer has meanwhile begun to pay closer attention to certain Straw Hat crewmembers.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>304-321 Long Ring Long Land</title>
-  <year>2016</year>
+  <title>Long Ring Long Land</title>
   <sorttitle>15</sorttitle>
-  <premiered>2016-10-29</premiered>
-  <releasedate>2016-10-29</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][304-321] Long Ring Long Land [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>17</seasonnumber>
+  <displayseason>17</displayseason>
+  <plot>On Long Ring Long Land, the Straw Hats are challenged to a Davy Back Fight. As they dive headfirst into a series of games with serious outcomes, the best the Navy has to offer has meanwhile begun to pay closer attention to certain Straw Hat crewmembers.</plot>
+  <lockdata>false</lockdata>
 </season>

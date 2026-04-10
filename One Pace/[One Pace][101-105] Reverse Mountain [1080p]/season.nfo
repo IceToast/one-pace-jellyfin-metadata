@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
+  <title>Reverse Mountain</title>
+  <sorttitle>08</sorttitle>
+  <seasonnumber>10</seasonnumber>
+  <displayseason>10</displayseason>
   <plot>Reverse Mountain is the entrance to the Grand Line. What await the Straw Hats are impossible water currents, a giant whale, and dubious people going by codenames.</plot>
-  <outline>Reverse Mountain is the entrance to the Grand Line. What await the Straw Hats are impossible water currents, a giant whale, and dubious people going by codenames.</outline>
   <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>101-105 Reverse Mountain</title>
-  <sorttitle>8</sorttitle>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][101-105] Reverse Mountain [1080p]/folder.png</poster>
-  </art>
 </season>

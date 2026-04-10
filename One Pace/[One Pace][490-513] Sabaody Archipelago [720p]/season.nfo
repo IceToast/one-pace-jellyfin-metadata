@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The second half of the Grand Line lays just ahead, so the Straw Hats stop at Sabaody Archipelago to plan the way forward. But being so close to the Holy Land and Navy Headquarters, Luffy's crew comes face-to-face with the darkest forces of the World Government.</plot>
-  <outline>The second half of the Grand Line lays just ahead, so the Straw Hats stop at Sabaody Archipelago to plan the way forward. But being so close to the Holy Land and Navy Headquarters, Luffy's crew comes face-to-face with the darkest forces of the World Government.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>490-513 Sabaody Archipelago</title>
-  <year>2016</year>
+  <title>Sabaody Archipelago</title>
   <sorttitle>20</sorttitle>
-  <premiered>2016-01-23</premiered>
-  <releasedate>2016-01-23</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][490-513] Sabaody Archipelago [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>22</seasonnumber>
+  <displayseason>22</displayseason>
+  <plot>The second half of the Grand Line lays just ahead, so the Straw Hats stop at Sabaody Archipelago to plan the way forward. But being so close to the Holy Land and Navy Headquarters, Luffy's crew comes face-to-face with the darkest forces of the World Government.</plot>
+  <lockdata>false</lockdata>
 </season>

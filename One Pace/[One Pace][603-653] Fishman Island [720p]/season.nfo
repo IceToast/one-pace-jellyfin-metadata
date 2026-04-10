@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The path the to the New World takes the Straw Hats thousands of leagues under the sea to the underwater Fishman Island. However, the island's dark past is reaching a breaking point, and Luffy and his crew are caught in the middle of the conflict.</plot>
-  <outline>The path the to the New World takes the Straw Hats thousands of leagues under the sea to the underwater Fishman Island. However, the island's dark past is reaching a breaking point, and Luffy and his crew are caught in the middle of the conflict.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>603-653 Fishman Island</title>
-  <year>2013</year>
+  <title>Fishman Island</title>
   <sorttitle>26</sorttitle>
-  <premiered>2013-04-07</premiered>
-  <releasedate>2013-04-07</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][603-653] Fishman Island [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>29</seasonnumber>
+  <displayseason>29</displayseason>
+  <plot>The path the to the New World takes the Straw Hats thousands of leagues under the sea to the underwater Fishman Island. However, the island's dark past is reaching a breaking point, and Luffy and his crew are caught in the middle of the conflict.</plot>
+  <lockdata>false</lockdata>
 </season>

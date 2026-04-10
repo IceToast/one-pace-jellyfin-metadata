@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Pirate Whitebeard and his allies on one side; the Navy and its Seven Warlords on the other. At the center of it all: Portgas D. Ace and his unspeakable past and heritage. Luffy races to Ace's execution scaffold as a battle between the world's most powerful people unfolds.</plot>
-  <outline>Pirate Whitebeard and his allies on one side; the Navy and its Seven Warlords on the other. At the center of it all: Portgas D. Ace and his unspeakable past and heritage. Luffy races to Ace's execution scaffold as a battle between the world's most powerful people unfolds.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>549-580 Marineford</title>
-  <year>2020</year>
+  <title>Marineford</title>
   <sorttitle>23</sorttitle>
-  <premiered>2020-10-06</premiered>
-  <releasedate>2020-10-06</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][549-580] Marineford [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>26</seasonnumber>
+  <displayseason>26</displayseason>
+  <plot>Pirate Whitebeard and his allies on one side; the Navy and its Seven Warlords on the other. At the center of it all: Portgas D. Ace and his unspeakable past and heritage. Luffy races to Ace's execution scaffold as a battle between the world's most powerful people unfolds.</plot>
+  <lockdata>false</lockdata>
 </season>

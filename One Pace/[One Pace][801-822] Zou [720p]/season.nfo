@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Zou cannot be reached by conventional means, nor is it easy to enter once one finds it. Within its secretive walls lie the Mink Tribe, and the Straw Hats soon discover that the people of Zou hold a piece of the puzzle that unlocks the mysteries of the world.</plot>
-  <outline>Zou cannot be reached by conventional means, nor is it easy to enter once one finds it. Within its secretive walls lie the Mink Tribe, and the Straw Hats soon discover that the people of Zou hold a piece of the puzzle that unlocks the mysteries of the world.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>801-822 Zou</title>
-  <year>2016</year>
+  <title>Zou</title>
   <sorttitle>29</sorttitle>
-  <premiered>2016-09-09</premiered>
-  <releasedate>2016-09-09</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][801-822] Zou [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>32</seasonnumber>
+  <displayseason>32</displayseason>
+  <plot>Zou cannot be reached by conventional means, nor is it easy to enter once one finds it. Within its secretive walls lie the Mink Tribe, and the Straw Hats soon discover that the people of Zou hold a piece of the puzzle that unlocks the mysteries of the world.</plot>
+  <lockdata>false</lockdata>
 </season>

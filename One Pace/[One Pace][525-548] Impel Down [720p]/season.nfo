@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Luffy launches a daring rescue mission to break his big brother Ace from the government prison, Impel Down. It's a race to the prison's lowest levels — a literal journey through hell itself.</plot>
-  <outline>Luffy launches a daring rescue mission to break his big brother Ace from the government prison, Impel Down. It's a race to the prison's lowest levels — a literal journey through hell itself.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>525-548 Impel Down</title>
-  <year>2016</year>
+  <title>Impel Down</title>
   <sorttitle>22</sorttitle>
-  <premiered>2016-12-15</premiered>
-  <releasedate>2016-12-15</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][525-548] Impel Down [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>24</seasonnumber>
+  <displayseason>24</displayseason>
+  <plot>Luffy launches a daring rescue mission to break his big brother Ace from the government prison, Impel Down. It's a race to the prison's lowest levels — a literal journey through hell itself.</plot>
+  <lockdata>false</lockdata>
 </season>

@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Every four years, the leaders of the world gather at the Holy Land to discuss a mutually agreed upon path for the government. During this particular Reverie, many parties with their own agendas arrive... and some are uninvited.</plot>
-  <outline>Every four years, the leaders of the world gather at the Holy Land to discuss a mutually agreed upon path for the government. During this particular Reverie, many parties with their own agendas arrive... and some are uninvited.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>903-908 Reverie</title>
-  <year>2021</year>
+  <title>Reverie</title>
   <sorttitle>31</sorttitle>
-  <premiered>2021-01-02</premiered>
-  <releasedate>2021-01-02</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][903-908] Reverie [1080p]/folder.png</poster>
-  </art>
+  <seasonnumber>34</seasonnumber>
+  <displayseason>34</displayseason>
+  <plot>Every four years, the leaders of the world gather at the Holy Land to discuss a mutually agreed upon path for the government. During this particular Reverie, many parties with their own agendas arrive... and some are uninvited.</plot>
+  <lockdata>false</lockdata>
 </season>

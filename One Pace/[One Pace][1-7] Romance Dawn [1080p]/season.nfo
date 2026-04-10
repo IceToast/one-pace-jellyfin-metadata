@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
+  <title>Romance Dawn</title>
+  <sorttitle>01</sorttitle>
+  <seasonnumber>1</seasonnumber>
+  <displayseason>1</displayseason>
   <plot>Monkey D. Luffy sets out on an adventure to form a crew, find the legendary One Piece, and become the pirate king.</plot>
-  <outline>Monkey D. Luffy sets out on an adventure to form a crew, find the legendary One Piece, and become the pirate king.</outline>
   <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>1-7 Romance Dawn</title>
-  <sorttitle>1</sorttitle>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][1-7] Romance Dawn [1080p]/folder.png</poster>
-  </art>
 </season>

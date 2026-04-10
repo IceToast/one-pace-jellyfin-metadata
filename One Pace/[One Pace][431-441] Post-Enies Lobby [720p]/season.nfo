@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The Straw Hats return to Water Seven after the ordeal at Enies Lobby. While there, they are met by a familial vice admiral, and they await news of their new ship.</plot>
-  <outline>The Straw Hats return to Water Seven after the ordeal at Enies Lobby. While there, they are met by a familial vice admiral, and they await news of their new ship.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>431-441 Post-Enies Lobby</title>
-  <year>2013</year>
+  <title>Post-Enies Lobby</title>
   <sorttitle>18</sorttitle>
-  <premiered>2013-07-06</premiered>
-  <releasedate>2013-07-06</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][431-441] Post-Enies Lobby [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>20</seasonnumber>
+  <displayseason>20</displayseason>
+  <plot>The Straw Hats return to Water Seven after the ordeal at Enies Lobby. While there, they are met by a familial vice admiral, and they await news of their new ship.</plot>
+  <lockdata>false</lockdata>
 </season>

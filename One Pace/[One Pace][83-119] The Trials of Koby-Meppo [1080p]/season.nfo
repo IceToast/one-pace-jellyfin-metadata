@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
+  <title>The Trials of Koby-Meppo</title>
+  <sorttitle>06.5</sorttitle>
+  <seasonnumber>8</seasonnumber>
+  <displayseason>8</displayseason>
   <plot>Koby and Helmeppo are new cabin boys for the marines, but they become unwillingly involved in an escape attempt by Morgan. Their bravery will either earn them the respect of their superiors—as well as Vice Admiral Garp—or it will spell their doom.</plot>
-  <outline>Koby and Helmeppo are new cabin boys for the marines, but they become unwillingly involved in an escape attempt by Morgan. Their bravery will either earn them the respect of their superiors—as well as Vice Admiral Garp—or it will spell their doom.</outline>
   <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>83-119 The Trials of Koby-Meppo</title>
-  <sorttitle>9.5</sorttitle>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][83-119] The Trials of Koby-Meppo [1080p]/folder.png</poster>
-  </art>
 </season>

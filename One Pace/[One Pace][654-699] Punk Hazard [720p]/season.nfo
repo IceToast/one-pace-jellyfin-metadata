@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The first island of the New World is a strange place covered in flames on one half, and freezing temperatures on the other. What seems at first to be an unlivable place later reveals a laboratory, a maniac scientist, and a certain Warlord of the Sea.</plot>
-  <outline>The first island of the New World is a strange place covered in flames on one half, and freezing temperatures on the other. What seems at first to be an unlivable place later reveals a laboratory, a maniac scientist, and a certain Warlord of the Sea.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>654-699 Punk Hazard</title>
-  <year>2013</year>
+  <title>Punk Hazard</title>
   <sorttitle>27</sorttitle>
-  <premiered>2013-05-16</premiered>
-  <releasedate>2013-05-16</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][654-699] Punk Hazard [720p]/folder.png</poster>
-  </art>
+  <seasonnumber>30</seasonnumber>
+  <displayseason>30</displayseason>
+  <plot>The first island of the New World is a strange place covered in flames on one half, and freezing temperatures on the other. What seems at first to be an unlivable place later reveals a laboratory, a maniac scientist, and a certain Warlord of the Sea.</plot>
+  <lockdata>false</lockdata>
 </season>

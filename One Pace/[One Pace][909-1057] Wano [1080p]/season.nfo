@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The Straw Hats finally regroup in Wano to carry out theirs and their allies' ultimate goal: to see to the Emperor Kaido's downfall and restore the Kozuki family to its rightful place of power.</plot>
-  <outline>The Straw Hats finally regroup in Wano to carry out theirs and their allies' ultimate goal: to see to the Emperor Kaido's downfall and restore the Kozuki family to its rightful place of power.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>909-924 Wano Act 1</title>
-  <year>2020</year>
+  <title>Wano</title>
   <sorttitle>32</sorttitle>
-  <premiered>2020-04-06</premiered>
-  <releasedate>2020-04-06</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][909-924] Wano Act 1/folder.png</poster>
-  </art>
+  <seasonnumber>35</seasonnumber>
+  <displayseason>35</displayseason>
+  <plot>The Straw Hats finally regroup in Wano to carry out theirs and their allies' ultimate goal: to see to the Emperor Kaido's downfall and restore the Kozuki family to its rightful place of power.</plot>
+  <lockdata>false</lockdata>
 </season>

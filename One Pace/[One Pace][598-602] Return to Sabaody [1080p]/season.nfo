@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>Two years have passed since the Straw Hats were forcibly separated, and they reconvene back at Sabaody stronger and even more committed to the journey ahead.</plot>
-  <outline>Two years have passed since the Straw Hats were forcibly separated, and they reconvene back at Sabaody stronger and even more committed to the journey ahead.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>598-602 Return to Sabaody</title>
+  <title>Return to Sabaody</title>
   <sorttitle>25</sorttitle>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][598-602] Return to Sabaody [1080p]/folder.png</poster>
-  </art>
+  <seasonnumber>28</seasonnumber>
+  <displayseason>28</displayseason>
+  <plot>Two years have passed since the Straw Hats were forcibly separated, and they reconvene back at Sabaody stronger and even more committed to the journey ahead.</plot>
+  <lockdata>false</lockdata>
 </season>

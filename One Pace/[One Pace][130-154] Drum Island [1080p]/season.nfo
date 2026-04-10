@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>When Nami falls ill, the crew makes a detour from Arabasta to seek medical help. They happen upon a winter island inhabited by a distrusting populace and a single doctor with a mysterious reindeer companion.</plot>
-  <outline>When Nami falls ill, the crew makes a detour from Arabasta to seek medical help. They happen upon a winter island inhabited by a distrusting populace and a single doctor with a mysterious reindeer companion.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>130-154 Drum Island</title>
-  <year>2021</year>
+  <title>Drum Island</title>
   <sorttitle>11</sorttitle>
-  <premiered>2021-02-05</premiered>
-  <releasedate>2021-02-05</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][130-154] Drum Island [1080p]/folder.png</poster>
-  </art>
+  <seasonnumber>13</seasonnumber>
+  <displayseason>13</displayseason>
+  <plot>When Nami falls ill, the crew makes a detour from Arabasta to seek medical help. They happen upon a winter island inhabited by a distrusting populace and a single doctor with a mysterious reindeer companion.</plot>
+  <lockdata>false</lockdata>
 </season>

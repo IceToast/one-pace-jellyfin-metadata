@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
-  <plot>The Straw Hats make landfall at the glorious city of Water Seven, known worldwide for its unparalleled shipyards. The pirates go to inquire about repairs for their ship, but the city threatens to take their money, their ship, and their crewmates.</plot>
-  <outline>The Straw Hats make landfall at the glorious city of Water Seven, known worldwide for its unparalleled shipyards. The pirates go to inquire about repairs for their ship, but the city threatens to take their money, their ship, and their crewmates.</outline>
-  <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>322-374 Water Seven</title>
-  <year>2020</year>
+  <title>Water Seven</title>
   <sorttitle>16</sorttitle>
-  <premiered>2020-09-04</premiered>
-  <releasedate>2020-09-04</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][322-374] Water Seven [1080p]/folder.png</poster>
-  </art>
+  <seasonnumber>18</seasonnumber>
+  <displayseason>18</displayseason>
+  <plot>The Straw Hats make landfall at the glorious city of Water Seven, known worldwide for its unparalleled shipyards. The pirates go to inquire about repairs for their ship, but the city threatens to take their money, their ship, and their crewmates.</plot>
+  <lockdata>false</lockdata>
 </season>

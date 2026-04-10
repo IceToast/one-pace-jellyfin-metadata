@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <season>
+  <title>Whiskey Peak</title>
+  <sorttitle>09</sorttitle>
+  <seasonnumber>11</seasonnumber>
+  <displayseason>11</displayseason>
   <plot>The first island on the Grand Line is surprisingly welcoming to pirates. But as night falls, a deadly plot unravels.</plot>
-  <outline>The first island on the Grand Line is surprisingly welcoming to pirates. But as night falls, a deadly plot unravels.</outline>
   <lockdata>false</lockdata>
-  <dateadded>2024-08-23 22:56:26</dateadded>
-  <title>106-114 Whiskey Peak</title>
-  <year>2017</year>
-  <sorttitle>9</sorttitle>
-  <premiered>2017-08-19</premiered>
-  <releasedate>2017-08-19</releasedate>
-  <art>
-    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][106-114] Whiskey Peak [480p]/folder.png</poster>
-  </art>
 </season>
